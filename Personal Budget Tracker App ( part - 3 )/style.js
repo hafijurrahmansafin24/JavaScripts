@@ -6,4 +6,4 @@ const expense = 2400.25;
 console.log("Personal Budget Tracker App");
 console.log("User : " + userName.toUpperCase());
 console.log("Total Income : $" + income); // my income
-console.log("Total Expence : $" + expense); // my expense
+console.log("Total Expense : $" + expense); // my expense
