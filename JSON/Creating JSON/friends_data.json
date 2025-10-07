@@ -1,0 +1,45 @@
+
+{
+    
+    "Friends" : [
+        {
+            "name" : "Safin",
+            "age" : 21
+        },
+
+        {
+            "name" : "Sabbir",
+            "age" : 21
+        },
+
+        {
+            "name" : "Barna",
+            "age" : 21
+        },
+
+        {
+            "name" : "Rayhan",
+            "age" : 21
+        },
+
+        {
+            "name" : "Imon",
+            "age" : 21
+        },
+
+        {
+            "name" : "Rana",
+            "age" : 21
+        },
+
+        {
+            "name" : "Salman",
+            "age" : 21
+        },
+
+        {
+            "name" : "Shihab",
+            "age" : 21
+        }
+    ]
+}

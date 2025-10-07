@@ -1,0 +1,66 @@
+
+{
+    
+    "students" : [
+        
+        {
+            "name" : "Hafijur Rahman Safin",
+            "middlename" : null,
+            "age" : 21,
+            "cgpa" : 3.75,
+            "isRegistered" : true,
+            "languages" : ["Bangali", "English"],
+            "friends" : [
+                {
+                    "name" : "Shahida Barna",
+                    "age" : 21
+                },
+
+                {
+                    "name" : "Sabbir Rahman",
+                    "age" : 21
+                }
+            ]
+        },
+
+        {
+            "name" : "Shahida Barna",
+            "middlename" : null,
+            "age" : 21,
+            "cgpa" : 3.50,
+            "isRegistered" : true,
+            "languages" : ["Bangali", "English", "Hindi"],
+            "friends" : [
+                {
+                    "name" : "Hafijur Rahman Safin",
+                    "age" : 21
+                },
+
+                {
+                    "name" : "Sabbir Rahman",
+                    "age" : 21
+                }
+            ]
+        },
+
+        {
+            "name" : "Sabbir Rahman",
+            "middlename" : null,
+            "age" : 21,
+            "cgpa" : 3.50,
+            "isRegistered" : true,
+            "languages" : ["Bangali", "English", "Hindi"],
+            "friends" : [
+                {
+                    "name" : "Shahida Barna",
+                    "age" : 21
+                },
+
+                {
+                    "name" : "Hafijur Rahman Safin",
+                    "age" : 21
+                }
+            ]
+        }
+    ]
+}
