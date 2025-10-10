@@ -1,4 +1,4 @@
-//! Personal Budget Tracker App Challenge (phase 8 - Object) -->>
+//! Personal Budget Tracker App Challenge (phase 9 - Object) -->>
 
 //! Function to get user input -->>
 function  getUserInput(promptMessage, isNumber = false) {
