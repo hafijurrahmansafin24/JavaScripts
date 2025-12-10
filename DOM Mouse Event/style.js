@@ -52,6 +52,6 @@ const buttons = document.querySelectorAll(".btn");
 
 Array.from(buttons).map((button) => {
     button.addEventListener("click", function (event) {
-        console.log("event.target.innerText");
+        console.log(event.target.innerText);
     });
 });
