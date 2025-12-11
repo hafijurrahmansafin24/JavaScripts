@@ -1,0 +1,10 @@
+#outer {
+    padding: 10px;
+    background-color: lightblue;
+}
+
+#inner {
+    padding: 10px;
+    margin: 15px;
+    background-color: lightcoral;
+}
