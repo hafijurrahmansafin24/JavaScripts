@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Personal Budget Tracker App(part - 11)</title>
+</head>
+<body class="container">
+    <h1>Personal Budget Tracker App</h1>
+    
+    <label for="userName">Enter Your Name: </label>
+    <input type="text" id="userName"> <br>
+
+    <label for="income">Total Income ($): </label>
+    <input type="number" id="income"> <br>
+
+    <label for="numExpenses">Number of Expenses: </label>
+    <input type="number" id="numExpenses"> <br>
+
+    <button id="startBudget">Start Budgeting</button>
+
+    <div id="expenseInputs"></div>
+
+    <button id="calculateBudget" style="display: none;">Calculate Budget</button>
+    <button id="clearBudget" style="display: none;">Clear Budget</button>
+
+    <div class="result" id="budgetResult"></div>
+
+
+    <script src="style.js"></script>
+</body>
+</html>
