@@ -25,7 +25,6 @@ var students = [
     }
 ]
 
-
 function studentsName1 () {
     return students.filter(function(x) {
         return x.gpa > 4;
