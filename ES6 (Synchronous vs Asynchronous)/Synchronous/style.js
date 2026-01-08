@@ -11,7 +11,7 @@ const taskThree = () => {
     console.log("Task3");
 }
 
-const taskFore = () => {
+const taskFour = () => {
     console.log("Task4");
 }
 
@@ -22,4 +22,4 @@ taskOne();
 taskThree();
 taskFive();
 taskTwo();
-taskFore();
+taskFour();
